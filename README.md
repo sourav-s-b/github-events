@@ -66,7 +66,7 @@ chmod +x index.js
 
 ## Notes
 
-- The GitHub API returns a **maximum of 300 events** per user (30 events per page, up to 10 pages).
+- The GitHub API returns a **maximum of 100 events** per user.
 - Only public repositories and events are accessible without additional authentication.
 - This CLI aggregates events of the same type in sequence for better readability.
 
@@ -74,8 +74,5 @@ chmod +x index.js
 
 ## License
 
-This project is licensed under the GNU License.
+This project is licensed under the GPL-3.0 License.
 
-```
-
-```
