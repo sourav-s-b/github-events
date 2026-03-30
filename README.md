@@ -8,7 +8,7 @@ This project uses the **GitHub API** to fetch the latest events of a user and ag
 
 ## Project URL
 
-[https://github.com/sourav-s-b/github-events](https://github.com/sourav-s-b/github-events)
+[https://roadmap.sh/projects/github-user-activity](https://roadmap.sh/projects/github-user-activity)
 
 ---
 
@@ -75,4 +75,3 @@ chmod +x index.js
 ## License
 
 This project is licensed under the GPL-3.0 License.
-
