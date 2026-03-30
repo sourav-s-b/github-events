@@ -38,12 +38,6 @@ This project uses the **GitHub API** to fetch the latest events of a user and ag
 }
 ```
 
-````
-
-> Make sure your token has `repo` and `read:user` scopes if you want access to private repos, otherwise public access works.
-
----
-
 ## Usage
 
 ```bash
@@ -80,8 +74,8 @@ chmod +x index.js
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the GNU License.
 
 ```
 
-````
+```
