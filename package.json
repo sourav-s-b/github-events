@@ -1,0 +1,21 @@
+{
+  "name": "github-events",
+  "version": "1.0.0",
+  "description": "simple testing for github api",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourav-s-b/github-events.git"
+  },
+  "author": "souarv-s-b",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourav-s-b/github-events/issues"
+  },
+  "homepage": "https://github.com/sourav-s-b/github-events#readme"
+}
